@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h><i><b> <center>TETRAD</center> </b></i></h>
+</head>
+<body style="background-color:grey;">
+<center>
+<img src="tetrad.jpg"
+height="160"width="160">
+<p><i>Let Me Introduce the Mistakes of My Life</i></p>
+<p><em><b>MINIMA</b></em></p>
+<img src="sofia.jpg"
+height="100"width="100">
+<hr/>
+<p><em><b>NIVEMA</b></em></p>
+<img src="nivetha.jpg"
+height="100"width="100">
+<hr/>
+<p><em><b>MAXIMA</b></em></p>
+<img src="keerthi.jpg"
+height="100"width="100">
+<p><i>Kinda People There For Me at My Worst</i></P>
+</centre>
+</body>
+</html>
